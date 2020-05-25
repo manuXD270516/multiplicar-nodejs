@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-bases",
+  "version": "1.0.0",
+  "description": "Aplicacion de linea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app-cli"
+  ],
+  "author": "Manuel Saavedra",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.0.2"
+  },
+  "devDependencies": {}
+}
